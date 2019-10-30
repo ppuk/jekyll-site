@@ -5,19 +5,19 @@ tags:
   - Elections
 layout:       post
 title:        "General Election Statement"
-image:        /assets/img/articles/passport.jpg
+image:        /assets/img/articles/ballot-mid.png
 author:       Harley Faggetter
 ---
 
 Dear Pirates,
 
-Pirate Party UK believes that leaving the EU without a deal goes against our Party principles. In particular, we believe it will result in the likely degradation of civil liberties, particularly through past Tory campaigns to water down or replace the Human Rights Act, and also digital rights and freedoms given through the EU, such as the protections of the GDPR and access to the Horizon 2020 Open Access programmes.
+Pirate Party UK believes that leaving the EU without a deal goes against our Party principles. In particular, we believe it would result in the likely degradation of civil liberties, particularly because of previous Tory campaigns to water down or replace the Human Rights Act and to dilute digital rights and freedoms granted through the EU, such as the protections of the GDPR. We also believe that we would lose important access to the scientific community in Europe through programmes such as Horizon 2020 and Erasmus.
 
-As a result, in this particular election, we feel that the primary driver for voters is likely to be around our future relationship with the EU. Rather than potentially splitting the vote, as a party that has historically had rather differing views internally on our future relationship with the EU, we should not stand in this election to allow our members to vote freely for the parties and candidates they believe either most represents their views on our future relationship with Europe, or are more likely to win against a party or candidate that would seek the no deal we believe to be incompatible to party values.
+In this particular election, we feel that the primary driver for voters is likely to be around our future relationship with the EU. As a party that has historically had differing views internally on our future relationship with the EU, we feel that we should allow our members to vote freely in this election for the parties and candidates they believe most represent their views on this single issue. Thus, rather than potentially splitting the vote, we have decided that we should not stand any Pirate Party candidates in this General Election, making it more likely that parties or candidates that seek a 'no deal' exit or have approaches that are incompatible with PPUK values will be defeated in this single-issue election.
 
-As such, the Pirate Party will not be standing any Party candidates during this forthcoming election. However, if some of our members should wish to stand regardless, they are entitled to stand as independents as is their right to do so. Any members considering standing should get in touch with a member of the NEC for guidance.
+So, the Pirate Party will not be standing any Party candidates during this forthcoming election. However, if some of our members wish to stand regardless, they are entitled to stand as Independents as is their right. Any members considering standing should get in touch with a member of the NEC for guidance, but standing as an Independent in this way will not be considered as incompatible with Party membership.
 
-The Pirate Party is disappointed that Parliament has determined that the route to solving the Brexit deadlock is a general election, because instead of laying out a vision for 5 years of government as a General Election is supposed to, campaigning will likely be dominated by Brexit and related issues.
+The Pirate Party is disappointed that Parliament has determined that the route to solving the Brexit deadlock is a General Election, because instead of laying out a vision for five years of government as a General Election is supposed to do, campaigning will likely be dominated by Brexit and related issues.
 
 ## About the Pirate Party ##
 
