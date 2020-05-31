@@ -6,7 +6,7 @@ tags:
   - Digital Rights
   - CoViD-19
 layout:       post
-title:        "Track and Trace - Compromising Your Data Safety"
+title:        "Test and Trace - Compromising Your Data Safety"
 image:        /assets/img/articles/2020/track-trace.webp
 author:       Rebecca Sentance
 ---
