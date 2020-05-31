@@ -2,10 +2,11 @@
 date:         2020-05-30
 category:     blog
 tags:
-  - NEC
-  - Board
+  - Privacy
+  - Digital Rights
+  - CoViD-19
 layout:       post
-title:        "Pirate Party UK calls on Public Health England to clarify data retention policies for the NHS Test and Trace Initiative"
+title:        "Track and Trace - Compromising Your Data Safety"
 image:        /assets/img/articles/2020/track-trace.webp
 author:       Rebecca Sentance
 ---
