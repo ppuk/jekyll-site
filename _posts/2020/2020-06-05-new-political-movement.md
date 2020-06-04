@@ -51,7 +51,8 @@ In response to the crisis Iceland was facing, a number of digital activists deci
 As the measures taken by the UK government in response to COVID-19 have shown, almost anything is possible, but we need a fresh source of ideas to find the right direction for our shared future. Like Iceland, the UK needs a new voice in politics to capture the radical spirit of the times and to build the better society we so desperately need after the coronavirus. A new movement inspired by the Icelandic Pirate Party could engage the British people in this shared project by rejecting the ideological politics of the past, embracing technology to reinvigorate our democracy in the present, and coming up with new solutions to the most pressing problems of the future.
 
 *This blog was first published as a post on Medium [here](https://medium.com/@twinter95/after-the-coronavirus-the-case-for-a-new-political-movement-in-the-uk-fae3bb4d85ff)*
-*Image credit via pixabay.org, free to use, no attribution required*
+
+* Image credit via pixabay.org, free to use, no attribution required *
 
 ## About the Pirate Party ##
 
