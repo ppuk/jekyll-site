@@ -22,11 +22,9 @@ The question asked was "Should the party be dissolved?"
 45 valid ballots were cast.  
 They were recorded as:
 
-```
-Yes         33  
-No          9  
-Abstain     3  
-```
+    Yes         33  
+    No          9  
+    Abstain     3  
 
 This gives 73% of the votes cast in favour of closing the party down.
 
