@@ -5,7 +5,7 @@ tags:
   - Politics
 layout:       post
 title:        "Pirate Party UK to Close Down"
-image:        /assets/img/articles/2020/shutdown.png
+image:        /assets/img/articles/2020/shuttingdown.png
 author:       Adrian Farrel, Harley Faggetter
 ---
 
