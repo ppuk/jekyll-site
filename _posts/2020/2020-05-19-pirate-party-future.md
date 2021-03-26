@@ -14,7 +14,7 @@ The NEC and Board of Governors have been discussing the current state and the po
 
 We think that this situation should not be left to continue. Either we should find a way to dig out and resurrect the Party, or we should formally shut down and deregister from the Electoral Commission. That is, we should either breathe new life into the day-to-day work of Pirate Party UK, or we should face facts and stop taking people’s membership fees for a party that has lost the will to live.
 
-In order to understand the strength of feeling, we have been debating this situation amongst the remaining NEC and Board members, and with Party volunteers on Discord. Now we want to hold a short consultation with all Party members. This will be held on the #general channel of our [Discord server](https://discord.pirateparty.org.uk/).
+In order to understand the strength of feeling, we have been debating this situation amongst the remaining NEC and Board members, and with Party volunteers on Discord. Now we want to hold a short consultation with all Party members. This will be held on the #general channel of our [Discord server](https://discord.gg/n78g37W).
 
 Depending on the results of the discussion, our options might be:
 - Hold a ballot in accordance with section 7 of the [Constitution](https://pirateparty.org.uk/about-us/constitution.html) to dissolve the Party.

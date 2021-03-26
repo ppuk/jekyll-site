@@ -30,7 +30,7 @@ This gives 73% of the votes cast in favour of closing the party down.
 
 ## Next Steps ##
 
-The NEC will, in co-ordination with the Board, start working out the dissolution of the Party and disposal of assets. Further information will be shared on [this site](https://pirateparty.org.uk) and on our [Discord Server](https://discord.pirateparty.org.uk). This result will also be sent out in communications to our members.
+The NEC will, in co-ordination with the Board, start working out the dissolution of the Party and disposal of assets. Further information will be shared on [this site](https://pirateparty.org.uk) and on our [Discord Server](https://discord.gg/n78g37W). This result will also be sent out in communications to our members.
 
 
 Harley Faggetter (Party Leader)  

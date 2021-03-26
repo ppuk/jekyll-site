@@ -43,7 +43,7 @@ Have Internet giants become too big, and if so how could we regulate them? How c
 
 ****
 
-Each of these sections describes issues can be read individually without having read any previous part of the report. We plan to structure our coverage in much the same way although we may link back to points in our previous articles due to the interlinked nature of the issues. If, after reading the report, you are inspired with a policy idea you can submit a policy proposal on Gitlab (email mailto:press@pirateparty.org.uk), come and talk on Discord (http://discord.pirateparty.org.uk), or volunteer (https://www.pirateparty.org.uk/campaigns/volunteer).
+Each of these sections describes issues can be read individually without having read any previous part of the report. We plan to structure our coverage in much the same way although we may link back to points in our previous articles due to the interlinked nature of the issues. If, after reading the report, you are inspired with a policy idea you can submit a policy proposal on Gitlab (email mailto:press@pirateparty.org.uk), come and talk on Discord (https://discord.gg/n78g37W), or volunteer (https://www.pirateparty.org.uk/campaigns/volunteer).
 
 Sources:
 

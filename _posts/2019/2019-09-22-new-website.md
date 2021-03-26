@@ -15,7 +15,7 @@ For now membership and voting functionality will remain on the legacy site, howe
 
 In true Pirate spirit, the main bulk of the site has come from our successful friends in PPCZ. I'd like to thank them for allowing us to use their site as a framework in true copyleft style with no restrictions. 
 
-Should you notice anything amiss or want to get involved working on the site, get in contact on [**Discord**](https://discord.pirateparty.org.uk) or [**fork us on github.**](https://github.com/ppuk/jekyll-site)
+Should you notice anything amiss or want to get involved working on the site, get in contact on [**Discord**](https://discord.gg/n78g37W) or [**fork us on github.**](https://github.com/ppuk/jekyll-site)
 
 ## About the Pirate Party ##
 
