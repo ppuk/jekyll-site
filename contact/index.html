@@ -39,27 +39,11 @@ layout: default
                         </tr>
                         <tr>
                           <td class="cell-description">
-                            <i class="cell-icon fa fa-envelope"></i>
-                            <span class="cell-text">Telephone (intermittent response)</span>
-                          </td>
-                          <td> +44 XXX XXXXX </td>
-                        </tr>
-                        <tr>
-                          <td class="cell-description">
                             <i class="cell-icon fa fa-gear"></i>
                             <span class="cell-text">IT Issues etc.</span>
                           </td>
                           <td>
                             <a href="mailto:webteam@pirateparty.org.uk">webteam@pirateparty.org.uk</a>
-                          </td>
-                        </tr>
-                        <tr>
-                          <td class="cell-description">
-                            <i class="cell-icon fa fa-globe"></i>
-                            <span class="cell-text">International Team</span>
-                          </td>
-                          <td>
-                            <a href="mailto:international@pirateparty.org.uk">international@pirateparty.org.uk</a>
                           </td>
                         </tr>
                         <tr>
@@ -97,28 +81,6 @@ layout: default
             </div>
           </article>
         </main>
-      </div>
-    </section>
-  </div>
-</div>
-<hr>
-<div class="row o-section-block o-section-block--divided">
-  <div class="medium-12 large-12 columns">
-    <section class="o-section o-section--spaceBot">
-      <div class="o-section-inner">
-        <div class="o-section-block">
-          <div class="c-BasicPage">
-            <div class="c-BasicPage-content">
-              <h2>Media Contacts</h2>
-                {% assign team = site.people | where_exp:"item","item.categories contains 'mo-contact'"  | sort:"ordkontakty" %}
-                {% include people/list-2col.html param=team %}
-              <br>
-              <h2>All other Enquiries</h2>
-                {% assign team = site.people | where_exp:"item","item.categories contains 'ao-contact'" | sort:"ordkontakty" %}
-                {% include people/list-2col.html param=team %}
-            </div>
-          </div>
-        </div>
       </div>
     </section>
   </div>
