@@ -10,7 +10,5 @@ In our modern online world; if you stand up for copyright reform - you get calle
 
 That's why we're proud to be standing for election as Pirates. Are you a Pirate too? In which case why not come aboard and help us build a better society for all.
 
-* [Find a local Branch]({{ '/branches/' | relative_url }})
 * [Look at our Policies]({{ '/policy/' | relative_url}})
-* [Become a Pirate]({{ '/join-us/' | relative_url}})
 * [Pirate Party UK Constitution]({{ 'about-us/constitution.html' | relative_url }})
