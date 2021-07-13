@@ -39,15 +39,9 @@ sass:
 
 permalink: /article/:title.html
 collections:
-  people:
-    output: true
-    permalink: /people/:path/
   policy:
     output: true
     permalink: /policy/:path/
-  branches:
-    output: true
-    permalink: /branches/:path/
 
 defaults:   # defaults values for collection scope
   -
@@ -68,11 +62,6 @@ defaults:   # defaults values for collection scope
     values:
       layout: "page"
       rbar: "program"
-  -
-    scope:
-      path: "_elections"
-    values:
-      layout: "kandidatka"
 
 title-page:
   big:
