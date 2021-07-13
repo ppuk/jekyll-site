@@ -52,22 +52,10 @@ collections:
 defaults:   # defaults values for collection scope
   -
     scope:
-      path: "_people"
-    values:
-      layout: "page"
-      rbar: "people, foto"
-  -
-    scope:
       path: "_policy"
     values:
       layout: "page"
       rbar: "program"
-  -
-    scope:
-      path: "_program/psp2017"
-    values:
-      layout: "page"
-      rbar: "program program_item"
   -
     scope:
       path: "_teams"
@@ -86,10 +74,6 @@ defaults:   # defaults values for collection scope
     values:
       layout: "kandidatka"
 
-calendar: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=kddvdvu3adcjef2kro4j6mm838%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FPrague
-fb: https://www.facebook.com/piratepartyuk/
-tw: piratepartyuk
-
 title-page:
   big:
     foto: /assets/img/miscellaneous/you-can.png
@@ -100,8 +84,8 @@ title-page:
     url: branches
     icon: fa fa-map-signs
   right-top:
-    text: Our People
-    url: people
+    text: Hi there
+    url: 
     icon: fa fa-users
   left-bottom:
     text: Join
