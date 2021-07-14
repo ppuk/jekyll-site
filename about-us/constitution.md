@@ -1,7 +1,6 @@
 ---
 title: Pirate Party UK Constitution
 layout: page
-rbar: twitter, fb, people
 description: Formal Constitution Document of the Pirate Party UK
 keywords: Pirate Party, PPUK, Constitution
 ---

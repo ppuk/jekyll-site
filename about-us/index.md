@@ -1,7 +1,6 @@
 ---
 title: About Us
 layout: page
-rbar: people
 ---
 
 Founded in 2009 alongside Pirate Parties across Europe, we are a radical centrist political party which is fighting for a political system fit for the 21st Century. We support digital rights, believe in personal freedoms and seek to hold government to account. We are a party which is passionate about technology - and believe that it should be used to benefit everyone. Whereas other parties appear to be afraid of the future - we embrace it.
