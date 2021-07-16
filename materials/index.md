@@ -1,7 +1,6 @@
 ---
 title: "Materials"
 layout: page
-rbar: people, tw
 ---
 
 

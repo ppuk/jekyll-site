@@ -23,7 +23,7 @@ layout: default
                         <tr>
                           <td class="cell-description">
                             <i class="cell-icon fa fa-university"></i>
-                            <span class="cell-text">Official Name</span>
+                            <span class="cell-text">(Formerly Official) Name</span>
                           </td>
                           <td>Pirate Party UK</td>
                         </tr>
@@ -39,27 +39,11 @@ layout: default
                         </tr>
                         <tr>
                           <td class="cell-description">
-                            <i class="cell-icon fa fa-envelope"></i>
-                            <span class="cell-text">Telephone (intermittent response)</span>
-                          </td>
-                          <td> +44 XXX XXXXX </td>
-                        </tr>
-                        <tr>
-                          <td class="cell-description">
                             <i class="cell-icon fa fa-gear"></i>
                             <span class="cell-text">IT Issues etc.</span>
                           </td>
                           <td>
                             <a href="mailto:webteam@pirateparty.org.uk">webteam@pirateparty.org.uk</a>
-                          </td>
-                        </tr>
-                        <tr>
-                          <td class="cell-description">
-                            <i class="cell-icon fa fa-globe"></i>
-                            <span class="cell-text">International Team</span>
-                          </td>
-                          <td>
-                            <a href="mailto:international@pirateparty.org.uk">international@pirateparty.org.uk</a>
                           </td>
                         </tr>
                         <tr>
@@ -71,24 +55,6 @@ layout: default
                             <a href="https://www.pirateparty.org.uk">www.pirateparty.org.uk</a>
                           </td>
                         </tr>
-                        <tr>
-                          <td class="cell-description">
-                            <i class="cell-icon fa fa-university"></i>
-                            <span class="cell-text">Registered Address</span>
-                          </td>
-                          <td>Unit 6941,
-                          <br>PO Box 4336,
-                          <br>Manchester,
-                          <br>M61 0BW</td>
-                        </tr>
-                        <tr>
-                          <td class="cell-description">
-                            <i class="cell-icon fa fa-university"></i>
-                            <span class="cell-text">Electoral Commission
-                            <br>Registriation Number</span>
-                          </td>
-                          <td> PP770 </td>
-                        </tr>
                       </tbody>
                     </table>
                   </div>
@@ -97,28 +63,6 @@ layout: default
             </div>
           </article>
         </main>
-      </div>
-    </section>
-  </div>
-</div>
-<hr>
-<div class="row o-section-block o-section-block--divided">
-  <div class="medium-12 large-12 columns">
-    <section class="o-section o-section--spaceBot">
-      <div class="o-section-inner">
-        <div class="o-section-block">
-          <div class="c-BasicPage">
-            <div class="c-BasicPage-content">
-              <h2>Media Contacts</h2>
-                {% assign team = site.people | where_exp:"item","item.categories contains 'mo-contact'"  | sort:"ordkontakty" %}
-                {% include people/list-2col.html param=team %}
-              <br>
-              <h2>All other Enquiries</h2>
-                {% assign team = site.people | where_exp:"item","item.categories contains 'ao-contact'" | sort:"ordkontakty" %}
-                {% include people/list-2col.html param=team %}
-            </div>
-          </div>
-        </div>
       </div>
     </section>
   </div>

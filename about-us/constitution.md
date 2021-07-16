@@ -1,7 +1,6 @@
 ---
 title: Pirate Party UK Constitution
 layout: page
-rbar: twitter, fb, people
 description: Formal Constitution Document of the Pirate Party UK
 keywords: Pirate Party, PPUK, Constitution
 ---
@@ -9,9 +8,11 @@ keywords: Pirate Party, PPUK, Constitution
 ## Constitution of the Pirate Party UK
 
 ### (1) NAME
+
 The official name of the organisation ("the Party") shall be "Pirate Party UK" ("PPUK").
 
 ### (2) AIMS
+
 The principal aim of the Party is to reform the laws of the United Kingdom and European Union in a manner consistent with its Principles.
 
 The Party shall act with the consent of its Members and in a manner consistent with the following Principles:
@@ -30,6 +31,7 @@ To ensure the security of society it is the responsibility of the government to 
 The Party shall act on the basis of evidence, with the consent of society through democracy, in the interests of all.
 
 ### (3) ACTIVITIES
+
 The Party shall take part in democratic electoral processes. It intends to contest Westminster and European parliamentary elections, local elections, etc.
 
 In the furtherance of its aims, the Party may:
@@ -41,6 +43,7 @@ invest any monies of the Party not immediately required, in accordance with the 
 do all such other lawful things as are necessary for the attainment of the Party’s aims.
 
 ### (4) MEMBERSHIP
+
 Membership is open to:
 
 Citizens of the United Kingdom
@@ -62,6 +65,7 @@ Members shall not act in a manner which brings the party into disrepute or is li
 Members appointed or elected to a position may be relieved of their title and responsibilities should the Board find them to be absent for a period exceeding 28 days without prior notice.
 
 ### (5) THE NATIONAL EXECUTIVE COMMITTEE
+
 The NEC shall be comprised of the Leader, Deputy Leader and at least three other elected officers with full voting rights and specific roles and responsibilities as outlined in the Code of Practice of the NEC.
 
 The NEC can vote to appoint or remove non-voting members to the NEC as needed.
@@ -75,12 +79,15 @@ Elected officers' membership of the NEC shall expire if their role is removed fr
 Changes to the Code of Practice of the NEC shall come in to force one week after the NEC officially notifies the Board of the change, unless the Board lodges an official objection to the NEC in that one week period.
 
 ### (6) FINANCIAL OBLIGATIONS
+
 The NEC shall designate a voting NEC member who is responsible to the party for the management of the party's finances.
 
 ### (7) DISSOLUTION OF THE PARTY
+
 The party may be dissolved by a simple majority of members making clear their wish to dissolve the party. Any assets belonging to the party at the time of dissolution will be donated to a registered charity of the NEC’s choosing.
 
 ### (8) THE BOARD OF GOVERNORS
+
 Structure
 
 The Board of Governors shall consist of up to 9 Governors.
@@ -108,6 +115,7 @@ The Board shall empanel an Oversight Committee to monitor and report to the memb
 The Board may have other governance responsibilities that are as yet undefined in this constitution.
 
 ### (9) ELECTIONS
+
 Election Types
 
 All elected national positions shall be elected using the ERS97 STV process.
@@ -177,6 +185,7 @@ Prior to initiating an election, the Board will appoint a neutral team of electi
 Administration and monitoring of the vote may not be undertaken by any official with a direct interest in participants of the election. This includes candidates, nominators and seconders of candidates. Any such official wishing to participate in the election as a candidate, a nominator, or a seconder, may do so by ensuring they have no officiating role in the election.
 
 ### (10) ARBITRATION AND DISCIPLINE
+
 Incompatible Memberships
 
 If a member of the Party subsequently joins an organisation which the Board declares to be incompatible with membership of the Party, or if the member is found to be a member of such an organisation then the Board may revoke their membership of the Party without return of membership fees.
@@ -198,9 +207,5 @@ When a disciplinary or arbitration panel is formed, the Board will select 5 of t
 Good Standing
 
 A member is regarded as being in Good Standing if they are a paid up member and have not had their position of Good Standing stripped from them.
-
- 
-
- 
 
 The constitution was formally adopted 12th July 2009. This is the text as amended 6th March 2017 following the member votes closing 13 March 2010, 12 March 2011, 21 November 2011, 7 February 2015 and 6 March 2017.

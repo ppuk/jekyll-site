@@ -4,18 +4,6 @@
     <div class="o-section-inner" style="padding: 3px;">
       <div class="medium-12 columns">
         <ul class="c-header-bar-items">
-          <li class="c-header-bar__item c-header-bar__item--smallerSpace">
-            <a href="{{site.fb}}" rel="noopener noreferrer" target="_blank" title="Facebook - Pirate Party UK">
-              <i class="fa fa-facebook" aria-hidden="true"></i>
-          </a></li>
-          <li class="c-header-bar__item c-header-bar__item--smallerSpace">
-            <a href="https://www.twitter.com/{{site.tw}}" rel="noopener noreferrer" target="_blank" title="Twitter - Pirate Party UK">
-              <i class="fa fa-twitter" aria-hidden="true"></i>
-            </a>
-          </li>
-        </ul>
-        <div class="c-header-bar-divider"></div>
-        <ul class="c-header-bar-items c-header-bar-items--bigLh">
         {% for item in site.data.top-menu %}
           <li class="c-header-bar__item">
             <a href="{{ item.url }}" rel="noopener noreferrer" target="_blank">
@@ -66,16 +54,10 @@
               <li {% if page.url contains 'news' %} class="is-active"{% endif %}>
                 <a href="{{'/news/' | relative_url }}">News</a>
               </li>
-              <li{% if page.url contains 'about-us' or page.url contains 'people' or page.url contains 'branches'%} class="is-active"{% endif %}>
+              <li{% if page.url contains 'about-us' %} class="is-active"{% endif %}>
                 <a href="{{ '/about-us/' | relative_url }}">About Us</a>
                 <ul class="menu vertical">
-                  <li{% if page.url contains 'people'%} class="is-active"{% endif %}>
-                    <a href="{{ '/people/' | relative_url }}">Our People</a>
-                  </li>
-                  <li{% if page.url contains 'branches'%} class="is-active"{% endif %}>
-                    <a href="{{ '/branches/' | relative_url }}">Local Branches</a>
-                  </li>
-                  <li{% if page.url contains 'constitution'%} class="is-active"{% endif %}>
+                  <li{% if page.url contains 'constitution' %} class="is-active"{% endif %}>
                     <a href="{{ '/about-us/constitution.html' | relative_url }}">Our constitution</a>
                   </li>
                 </ul>
