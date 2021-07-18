@@ -10,11 +10,10 @@ Accessible is::
 - news: [api/posts.json]({{ '/api/posts.json' | relative_url}})
 - program: [api/program.json]({{'/api/program.json' | relative_url}})
 - tags [api/tags.json]({{'/api/tags.json' | relative_url}})
-- stručný obsah [ api/search.json]({{'/api/search.json' | relative_url}})
 
 ## Access
 
-**JavaScript**:
+### JavaScript
 
 ```javascript
 $.get('/api/search.json')
@@ -29,7 +28,7 @@ $.get('/api/search.json')
 });
 ```
 
-**Python 3**:
+### Python 3
 
 ```python
 from urllib.request import urlopen
