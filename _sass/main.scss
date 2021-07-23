@@ -8,7 +8,6 @@
 
 // Import Components
 @import 'components/BlogPosting';
-@import 'components/Person';
 @import 'components/BasicPage';
 @import 'components/vertical-navigation';
 @import 'components/icon';
@@ -48,13 +47,10 @@
 
 // Custom
 @import 'components/scroll-top';
-@import 'components/pripoj-se';
 @import 'components/highlight';
 
 // Layouts
 
-@import 'layouts/kandidatka';
 @import "layouts/micropage";
 @import "layouts/vizitka";
 
-@import "pages/snemovna";
