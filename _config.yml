@@ -54,14 +54,14 @@ title-page:
     text: Welcome
     url:
     icon: fa fa-map-signs
-  right-top:
-    text: Hi there
-    url: 
-    icon: fa fa-users
-  left-bottom:
-    text: Hello
-    url: 
-    icon: fa fa-gift u-rotate-5 fa-5x u-rotate-345
+  # right-top:
+  #  text: Hi there
+  #  url: 
+  #  icon: fa fa-users
+  # left-bottom:
+  #  text: Hello
+  #  url: 
+  #  icon: fa fa-gift u-rotate-5 fa-5x u-rotate-345
   right-bottom:
     text: Our Beliefs
     url: policy
