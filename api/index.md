@@ -8,7 +8,6 @@ Accessible is::
 
 - sitemap: [sitemap.xml]({{'/sitemap.xml' | relative_url}})
 - news: [api/posts.json]({{ '/api/posts.json' | relative_url}})
-- program: [api/program.json]({{'/api/program.json' | relative_url}})
 - tags [api/tags.json]({{'/api/tags.json' | relative_url}})
 
 ## Access
