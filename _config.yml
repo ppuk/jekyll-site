@@ -44,12 +44,6 @@ collections:
     permalink: /policy/:path/
 
 defaults:   # defaults values for collection scope
-  -
-    scope:
-      path: "_policy"
-    values:
-      layout: "page"
-      rbar: "program"
 
 title-page:
   big:
