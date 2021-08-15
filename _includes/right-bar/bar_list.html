@@ -25,20 +25,6 @@
 
 
 <ul  class="c-widget-accordion-list">
-{% for team in myteams %}
- {% assign thisteam = team.name %}
- <li><a href="{{ team.url | relative_url }}"> {{ thisteam }}</a>
-
- <ul>
- {% assign mysubteams = site.teams | where_exp: "item", "item['nadřízený tým'] == thisteam" | sort:"name" %}
-
- {% for subteam in mysubteams %}
- {% assign thissubteam = subteam.name %}
- <li><a href="{{ subteam.url | relative_url }}">{{ thissubteam}}</a></li>
- {% endfor %}
- </ul>
- </li>
-{% endfor %}
 </ul>
 
 </div>
