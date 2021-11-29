@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "PPUK Website",
   "main": "index.js",
+  "engines": {
+    "node": "12.22.7"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,10 +20,11 @@
   "homepage": "https://github.com/ppuk/jekyll-site#readme",
   "devDependencies": {
     "bower": "^1.8.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-rename": "^1.2.2",
     "gulp-run": "^1.7.1",
-    "gulp-uglify": "^3.0.0"
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.13.1"
   }
 }

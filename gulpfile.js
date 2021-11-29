@@ -1,3 +1,4 @@
+
 // Include gulp
 var gulp = require('gulp');
 
@@ -11,22 +12,14 @@ const b = 'bower_components';
 const libsjs = [
   b + '/jquery/dist/jquery.js',
   b + '/jquery-ui/jquery-ui.min.js',
-  /* TODO: replace: */
-  /*b + '/jquery-ui/ui/core.js',
-  b + '/jquery-ui/ui/widget.js',
-  b + '/jquery-ui/ui/position.js',
-  b + '/jquery-ui/ui/widgets/menu.js',
-  b + '/jquery-ui/ui/widgets/autocomplete.js',*/
   b + '/foundation-sites/dist/foundation.js',
   b + '/motion-ui/dist/motion-ui.js',
   b + '/handlebars/handlebars.js',
   b + '/raphael/raphael.js'
 ];
-const c = '_includes/js/'
+const c = '_includes/js/';
 const customjs = [
   c + 'custom.js',
-  c + 'kalkulacka.js',
-  c + 'tw.js',
 ];
 
 // Concatenate & Minify JS
@@ -46,7 +39,7 @@ gulp.task('scripts-custom', function() {
       .pipe(gulp.dest('assets/js'));
 });
 
-gulp.task('scripts', ['scripts-libs', 'scripts-custom']);
+gulp.task('scripts', gulp.series('scripts-libs', 'scripts-custom'));
 
 // Deploy css
 gulp.task('styles-foundation', function() {
@@ -70,10 +63,10 @@ gulp.task('styles-font-awesome-font', function() {
       .pipe(gulp.dest('assets/fonts'));
 });
 
-gulp.task('styles', ['styles-font-awesome-font', 'styles-font-awesome-css', 'styles-foundation', 'styles-jquery-ui']);
+gulp.task('styles', gulp.series('styles-font-awesome-font', 'styles-font-awesome-css', 'styles-foundation', 'styles-jquery-ui'));
 
 // Runs Jekyll build
-gulp.task('build', ['scripts', 'styles'], function() {
+gulp.task('build', gulp.series('scripts', 'styles'), function() {
   var shellCommand = 'bundle exec jekyll build';
 
   return gulp.src('.')
@@ -81,4 +74,4 @@ gulp.task('build', ['scripts', 'styles'], function() {
 });
 
 // Default Task
-gulp.task('default', ['scripts', 'styles']);
+gulp.task('default', gulp.series('scripts', 'styles'));
