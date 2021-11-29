@@ -1,5 +1,9 @@
 # pirateparty.org.uk
 
+This project is deprecated and is now a holding page for the defunct Pirate Party UK.
+
+Most former party content will be removed from the site, you can check out the `archive` branch to see more of the old content
+
 This project is copied from [pirati.cz](https://github.com/pirati-web/pirati.cz)
 
 ## Build locally
