@@ -35,8 +35,6 @@ The repository can be cloned into any folder (doesn't need to be in `/var/www/`)
 
 Run `bundle exec jekyll serve`, which compiles the page and runs the page. It'll be accessible on localhost: `http://127.0.0.1:4000`
 
-<!-- Eventually, we can run only: `bundle exec jekyll build`, to the folder `_site` prepare a complete web (we can open it from the browser using the keyboard shortcut `ctrl+o`). -->
-
 ## Structure
 
 The pages themselves are in markdown or in html (more complex structure, eg multiple columns, etc.)
@@ -46,7 +44,6 @@ The collections are markdown files with the yaml header in the appropriate folde
 - posts (articles), photo 1300x744
 - people (people), photo 165x220
 - program
-- teams (teams)
 
 Some data are listed in the folder `_data`. They are in yaml or json format.
 
