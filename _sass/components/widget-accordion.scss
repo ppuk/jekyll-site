@@ -40,17 +40,11 @@ $wa-ns: '';
     content: '\f147';
   }
 
-  .#{$wa-ns}c-widget-accordion-link.#{$wa-ns}c-widget-accordion-link--fb:before {
-    content: '\f09a';
-    margin-right: 0.5rem;
-  }
-
   .#{$wa-ns}c-widget-accordion-link.#{$wa-ns}c-widget-accordion-link--twitter:before {
     content: '\f099';
     margin-right: 0.5rem;
   }
 
-  .#{$wa-ns}c-widget-accordion-link.#{$wa-ns}c-widget-accordion-link--fb:hover,
   .#{$wa-ns}c-widget-accordion-link.#{$wa-ns}c-widget-accordion-link--twitter:hover {
     background: #2785ce !important;
     cursor: default;
