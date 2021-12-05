@@ -11,10 +11,10 @@ package-lock.json
 node_modules
 bower_components
 
-**/*.min.js
-
 *.db
 
 \.idea/
 
 target/
+
+assets/js/*

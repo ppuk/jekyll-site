@@ -27,8 +27,8 @@ Next, go to the cloned project folder:
 ```bash
 npm install                             # It installs gulp etc.
 bundle install                          # It installs locally needed gems (např. jekyll, jekyll-paginate etc.)
-./node_modules/bower/bin/bower install  # It installs front-end libraries (Foundation, Jquery, ...)
-./node_modules/gulp/bin/gulp.js         # Minifies JS 
+npm run bower-install                   # It installs front-end libraries (Foundation, Jquery, ...)
+npm run gulp                            # Minifies JS 
 ```
 
 The repository can be cloned into any folder (doesn't need to be in `/var/www/`).
