@@ -9,7 +9,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "bower-install": "./node_modules/bower/bin/bower install",
-    "gulp": "./node_modules/gulp/bin/gulp.js"
+    "gulp": "./node_modules/gulp/bin/gulp.js",
+    "start": "bundle exec jekyll serve"
   },
   "repository": {
     "type": "git",

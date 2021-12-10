@@ -1,6 +1,7 @@
 .c-top-bar {
   position: relative;
   @include top-bar-container;
+  z-index: 99;
 }
 
 .c-top-bar-border {
@@ -165,10 +166,10 @@
   .menu a:hover,
   .menu .is-active > a,
   .dropdown.menu > li.is-dropdown-submenu-parent a:hover {
-    color: #f3c289;
+    color: #650065;
 
     &:after {
-      background: #f3c289;
+      background: #650065;
     }
   }
 
@@ -209,7 +210,7 @@
     border: 0;
 
     a:hover {
-      color: darken(#f3c289, 5%);
+      color: darken(#650065, 5%);
       &:after {
         content: none;
       }
@@ -322,10 +323,10 @@
 
     .menu a:hover,
     .menu .is-active > a {
-      color: #f3c289;
+      color: #650065;
 
       &:before {
-        background: #f3c289;
+        background: #650065;
       }
 
       &:after {
@@ -392,7 +393,7 @@
       background: #ececec;
 
       a:hover {
-        color: darken(#f3c289, 5%);
+        color: darken(#650065, 5%);
         &:before {
           content: none;
         }
