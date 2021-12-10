@@ -38,7 +38,7 @@ body{
 .l-micropage{
   $unit: 1.125rem;
   $light: #fff;
-  $accent: #f3c289;
+  $accent: #650065;
   position: relative;
   //&:before{
   //  @extend %before-util;
@@ -297,12 +297,6 @@ body{
       p + &{
         margin-top: 2*$u;
       }
-    }
-  }
-
-  &__end{
-    p+p{
-
     }
   }
 

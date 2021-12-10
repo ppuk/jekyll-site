@@ -33,7 +33,7 @@ npm run gulp                            # Minifies JS
 
 The repository can be cloned into any folder (doesn't need to be in `/var/www/`).
 
-Run `bundle exec jekyll serve`, which compiles the page and runs the page. It'll be accessible on localhost: `http://127.0.0.1:4000`
+Run `npm run start` to start the Jekyll service. Once it's done compiling it'll serve on localhost: `http://127.0.0.1:4000`
 
 ## Structure
 
@@ -49,6 +49,6 @@ Some data are listed in the folder `_data`. They are in yaml or json format.
 
 **CSS** is in the folder `_sass` and is automatically compiled and minified into one file `main.css`.
 
-**JavaScript** is in the folder `_include/js`. Libraries are defined in `bower.json` and the production set is made up of a gulp.
+**JavaScript** is in the folder `_include/js`. Libraries are defined in `bower.json` and then gulp packages these libraries for production.
 
 Jekyll has very detailed [documentation](http://jekyllrb.com/docs/home/). And we also recommend the development [cheat sheet](http://jekyll.tips/jekyll-cheat-sheet/)
