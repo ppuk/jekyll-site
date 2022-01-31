@@ -17,23 +17,6 @@ $("button[data-toggle]").on("click", function()
 });
 window.onload = function() {};
 
-/**
- * @param {collection} data
- **/
-var search = function(data) {
-  $("#searchsub").click(function() {
-    var exp = $("#search").val();
-    var url = "https://duckduckgo.com/?q=site:pirateparty.org.uk+" + exp;
-    window.location.href = url;
-  });
-  $("#search").autocomplete({
-    source: data,
-    select: function( event, ui ) {
-      window.location.href = ui.item.value;
-    }
-  });
-}
-
 var back_top = function() {
   $(window).scroll(function() {
       if ($(this).scrollTop() > 50 ) {
@@ -73,14 +56,3 @@ var show_relatives = function(data) {
     });
   }
 }
-
-var hideEvents = function() {
-  var day = new Date(this.attributes[0].value);
-  if( day < today || showed > limit ) {
-    $this = $(this);
-    $this.hide();
-  } else {
-    showed += 1;
-  }
-}
-

@@ -10,9 +10,6 @@ layout: default
   {% for tag in site.tags %}
     {{ tag[0] }}
   {% endfor %}
-	{% for team in site.teams %}
-		{{ team.tags }}
-	{% endfor %}
 {% endcapture %}
 {% assign sortedtags = tags | split:' ' | uniq | sort %}
 
