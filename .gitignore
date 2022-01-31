@@ -1,5 +1,4 @@
 _site/
-_podklady/html/pirati.cz/
 
 .sass-cache/
 .jekyll-metadata
@@ -18,3 +17,5 @@ bower_components
 target/
 
 assets/js/*
+assets/js/custom.min.js
+assets/js/common-libs.min.js
