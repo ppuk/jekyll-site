@@ -2,7 +2,8 @@
 layout: default
 ---
 
-{% include title/title_header.html %}
+<div class="c-welcome-header">
+</div>
 <div class="row">
   <div class="medium-12 large-8 columns">
     <section class="o-section o-section--spaceBot">
@@ -12,7 +13,6 @@ layout: default
         </header>
         {% for article in site.posts limit: 6 %}
         <article itemtype="http://schema.org/BlogPosting" class="c-BlogPosting-excerpt" itemscope="">
-          <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
           <div class="c-BlogPosting-excerpt-contentWrapper u-cf">
             <div class="c-BlogPosting-excerpt-photoBox">
               <!-- BlogPosting image -->
@@ -59,10 +59,4 @@ layout: default
         </div>
       </div>
     </section>
-  </div>
-  {% if page.rbar %}
-  <div class="medium-12 large-4 columns">
-    {% include right-bar/rbar.html param='rbar' %}
-  </div>
-  {% endif %}
 </div>
