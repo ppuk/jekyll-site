@@ -1,0 +1,39 @@
+I"f<h1 id="piratepartyorgukapi"><a href="/">pirateparty.org.uk</a>/api</h1>
+
+<p>Accessible is::</p>
+
+<ul>
+  <li>sitemap: <a href="/sitemap.xml">sitemap.xml</a></li>
+  <li>news: <a href="/api/posts.json">api/posts.json</a></li>
+  <li>program: <a href="/api/program.json">api/program.json</a></li>
+  <li>tags <a href="/api/tags.json">api/tags.json</a></li>
+</ul>
+
+<h2 id="access">Access</h2>
+
+<h3 id="javascript">JavaScript</h3>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">$</span><span class="p">.</span><span class="kd">get</span><span class="p">(</span><span class="dl">'</span><span class="s1">/api/search.json</span><span class="dl">'</span><span class="p">)</span>
+    <span class="p">.</span><span class="nx">done</span><span class="p">(</span><span class="kd">function</span><span class="p">(</span><span class="nx">data</span><span class="p">)</span> <span class="p">{</span>
+        <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="dl">'</span><span class="s1">Success:</span><span class="dl">'</span><span class="p">);</span>
+        <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">data</span><span class="p">);</span>
+    <span class="p">})</span>
+    <span class="p">.</span><span class="nx">fail</span><span class="p">(</span><span class="kd">function</span><span class="p">(</span><span class="nx">data</span><span class="p">)</span> <span class="p">{</span>
+        <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="dl">'</span><span class="s1">Error:</span><span class="dl">'</span><span class="p">);</span>
+        <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">data</span><span class="p">);</span>
+    <span class="p">});</span>
+<span class="p">});</span>
+</code></pre></div></div>
+
+<h3 id="python-3">Python 3</h3>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">urllib.request</span> <span class="kn">import</span> <span class="n">urlopen</span>
+<span class="kn">from</span> <span class="nn">json</span> <span class="kn">import</span> <span class="n">loads</span>
+
+<span class="n">url</span> <span class="o">=</span> <span class="s">'http://localhost:4000/api/search.json'</span>
+
+<span class="n">response</span> <span class="o">=</span> <span class="n">urlopen</span><span class="p">(</span><span class="n">url</span><span class="p">)</span>
+<span class="n">text</span> <span class="o">=</span> <span class="n">response</span><span class="p">.</span><span class="n">read</span><span class="p">().</span><span class="n">decode</span><span class="p">(</span><span class="s">"utf-8"</span><span class="p">)</span>
+<span class="n">var</span> <span class="o">=</span> <span class="n">loads</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
+</code></pre></div></div>
+:ET
