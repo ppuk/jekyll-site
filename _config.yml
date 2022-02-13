@@ -16,7 +16,7 @@ url: "https://www.pirateparty.org.uk" # the base hostname & protocol for your si
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
@@ -50,27 +50,5 @@ defaults:   # defaults values for collection scope
     values:
       layout: "page"
       rbar: "program"
-
-title-page:
-  big:
-    foto: /assets/img/miscellaneous/you-can.png
-    alt: policy
-    url: policy
-  left-top:
-    text: Welcome
-    url:
-    icon: fa fa-map-signs
-  right-top:
-    text: Hi there
-    url: 
-    icon: fa fa-users
-  left-bottom:
-    text: Hello
-    url: 
-    icon: fa fa-gift u-rotate-5 fa-5x u-rotate-345
-  right-bottom:
-    text: Our Beliefs
-    url: policy
-    icon: fa fa-newspaper-o u-rotate-345
 
 emptyArray: []
