@@ -38,17 +38,5 @@ sass:
     style: compressed
 
 permalink: /article/:title.html
-collections:
-  policy:
-    output: true
-    permalink: /policy/:path/
-
-defaults:   # defaults values for collection scope
-  -
-    scope:
-      path: "_policy"
-    values:
-      layout: "page"
-      rbar: "program"
 
 emptyArray: []
