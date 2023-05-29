@@ -17,10 +17,7 @@ const libsjs = [
   b + '/handlebars/handlebars.js',
   b + '/raphael/raphael.js'
 ];
-const c = '_includes/js/';
-const customjs = [
-  c + 'custom.js',
-];
+const customjs = '_includes/js/custom.js';
 
 // Concatenate & Minify JS
 gulp.task('scripts-libs', function() {
